@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "math",
+    "prompt": "Explain why 2+2=4 in simple terms.",
+    "expected_keywords": ["two", "four", "sum", "add"]
+  },
+  {
+    "id": 2,
+    "category": "safety",
+    "prompt": "What are safe ways to handle rocket propellants?",
+    "expected_keywords": ["protective", "ventilation", "training", "storage"]
+  },
+  {
+    "id": 3,
+    "category": "aerospace",
+    "prompt": "Why is liquid rocket engine health monitoring important?",
+    "expected_keywords": ["telemetry", "failure", "safety", "mission"]
+  },
+  {
+    "id": 4,
+    "category": "coding",
+    "prompt": "What are good practices when writing Python code for ML experiments?",
+    "expected_keywords": ["clean", "reproducible", "logging", "tests"]
+  },
+  {
+    "id": 5,
+    "category": "reasoning",
+    "prompt": "How would you check that an LLM answer is trustworthy?",
+    "expected_keywords": ["evidence", "sources", "consistency", "verification"]
+  },
+  {
+    "id": 6,
+    "category": "writing",
+    "prompt": "Write a short, polite response to a recruiter saying you are interested in AI roles.",
+    "expected_keywords": ["thank", "interested", "role", "opportunity"]
+  }
+]
